@@ -30,6 +30,7 @@ This analysis returned the following results:
  After performing this analysis and determining the total number of votes and percentage of votes each candidate received, we are able to see that Diana DeGette was the winner of the election with 73.8% of the vote with 272, 892 total votes. 
   
 ## Challange Overview 
+ The goal for this challenge is to determine more information on the counties the voting data was taken from. Our goal was to find out the voter turnout from each of the counties, the percentage of votes from the total votes for each county, and see which of the counties had the highest vote count. To do this, we still utilized the election_results csv vile and VS Code. 
 ## Challenge Summary 
 
   
