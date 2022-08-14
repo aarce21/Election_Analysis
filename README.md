@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 ## Project Overview
 The purpose of this election analysis was to assist a board of elections in determining the winning candidate, their number of votes, and their percentage of votes won by usilizing an excel CSV file and Python functions in VS Code. 
 
